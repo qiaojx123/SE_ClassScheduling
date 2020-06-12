@@ -1,4 +1,5 @@
 #Schedule module
+
 ##Note
 **You can always change the input and output json's key by modifying macros in Schedule.h and recompile the program.**
 
@@ -20,6 +21,7 @@ This file contains whether the auto scheduling is success and the error infomati
 When the auto scheduling succeeds, the file will also contain three arrays, which are named by default "rooms", "lessons" and "teachers". These three arraies includes the data which database needs to update.
 
 ##Modify
+
 Use command
 
 	*.exe modify
