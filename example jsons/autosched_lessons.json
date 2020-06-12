@@ -1,0 +1,58 @@
+[
+{
+	"ID": 1,
+	"teacher_ID": 4396,
+	"cap": 30,
+	"length": 2,
+	"class_time": 0
+},
+{
+	"ID": 2,
+	"teacher_ID": 4396,
+	"cap": 70,
+	"length": 3,
+	"class_time": 0
+},
+{
+	"ID": 3,
+	"teacher_ID": 7777,
+	"cap": 70,
+	"length": 4,
+	"class_time": 0
+},
+{
+	"ID": 4,
+	"teacher_ID": 7777,
+	"cap": 70,
+	"length": 5,
+	"class_time": 0
+},
+{
+	"ID": 5,
+	"teacher_ID": 1412,
+	"cap": 30,
+	"length": 6,
+	"class_time": 0
+},
+{
+	"ID": 6,
+	"teacher_ID": 1412,
+	"cap": 30,
+	"length": 7,
+	"class_time": 1122334455667788990011223344
+},
+{
+	"ID": 7,
+	"teacher_ID": 1412,
+	"cap": 45,
+	"length": 8,
+	"class_time": 1122334455667788990011223344
+},
+{
+	"ID": 9,
+	"teacher_ID": 1412,
+	"cap": 90,
+	"length": 9,
+	"class_time": 1122334455667788990011223344
+}
+]

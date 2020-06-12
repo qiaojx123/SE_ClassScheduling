@@ -1,0 +1,22 @@
+[
+{
+	"ID": 1,
+	"cap": 30,
+	"room_time": 0
+},
+{
+	"ID": 2,
+	"cap": 60,
+	"room_time": 0
+},
+{
+	"ID": 3,
+	"cap": 70,
+	"room_time": 0
+},
+{
+	"ID": 4,
+	"cap": 100,
+	"room_time": 0
+}
+]

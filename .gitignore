@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+SE_Scheduling/Debug
+
+.vs
